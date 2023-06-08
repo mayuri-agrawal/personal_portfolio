@@ -1,0 +1,35 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+position: relative;
+width: 120%;
+margin-left: -3.5rem;
+}
+
+.footer img{
+height: 10rem;
+
+
+}
+
+.footer>*:nth-child(2){
+    color: rgb(251, 246, 244);
+   position: absolute;
+   display: flex;
+   justify-content: c enter;
+   width: 100%;
+   margin-top: 4rem;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 31rem;
+}
+.footer>*:nth-child(3){
+    color: rgb(249, 247, 245);
+   position: absolute;
+   display: flex;
+   justify-content: center;
+   width: 100%;
+   margin-top: 8rem;
+    text-align: center;
+    font-weight: bold;
+}

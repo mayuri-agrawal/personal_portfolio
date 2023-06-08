@@ -1,0 +1,198 @@
+
+.skills{
+    height: 100vh;
+    z-index: 0;
+    position: relative;
+    margin-top: -12rem;
+    
+    
+   
+}
+.skills>*{
+    z-index: 0;
+    
+}
+
+.sleft{
+    
+   margin-left: -1rem;
+    position: relative;
+    left: 0;
+    flex: 1;
+    margin-top: 5rem;
+}
+.pic>*{
+    transform: scale(1.4);
+    height: 15rem;
+    border-radius: 200px;
+    margin-left: 7.5rem;
+    margin-top: 7rem;
+}
+.desc{
+    width: 30rem;
+    margin-left: 1rem;
+margin-top: 1rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: black;
+}
+.desc:hover{
+    background-color: rgba(23, 22, 22, 0.24);
+    font-weight: bold;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 2px;
+   
+}
+
+.sright{
+    display: flex;
+    position: relative;
+
+   margin-top: -22rem;
+    margin-left: 33rem;
+    flex: 1;
+}
+
+.s2box{
+    width: 27rem;
+    border: 2px solid black;
+    margin-top: -0.5rem;
+   border-radius: 1rem;
+    height: 25rem;
+    z-index: 0;
+    position: relative;
+    background-color:rgba(214, 158, 214, 0.258) ; 
+  
+   transition: transform .2s;
+ 
+}
+.s2box:hover{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.s2box>*:nth-child(1){
+    margin-left: 10rem;
+    font-size: 3rem;
+    font-weight: bold;
+    display: flex;
+}
+
+.s2box>*:nth-child(2){
+margin-top: 1.5rem;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-left: 1rem;
+    display: flex;
+}
+.s2box>*:nth-child(3){
+    margin-top: 1rem;
+    border: 2px solid rgb(215, 189, 21);
+    width: 8rem;
+    padding-left: 10px;
+    display: flex;
+    margin-left: 1rem;
+    font-size: 1.2rem;
+
+
+}
+.s2box>*:nth-child(4){
+    font-size: 1.2rem;
+    margin-top: -1.6rem;
+    margin-left: 11rem;
+    display: flex;
+    border: 2px solid rgb(215, 189, 21);
+    width: 3.6rem;
+    padding-left: 10px;
+
+}
+
+.s2box>*:nth-child(5){
+    font-size: 1.2rem;
+    margin-top: -1.6rem;
+    margin-left: 16.5rem;
+    display: flex;
+    border: 2px solid rgb(215, 189, 21);
+    width: 3.6rem;
+    padding-left: 10px;
+
+}
+
+.s2box>*:nth-child(6){
+    margin-top: 2rem;
+        font-size: 1.9rem;
+        font-weight: bold;
+        margin-left: 1rem;
+        display: flex;
+    }
+
+    .s2box>*:nth-child(7){
+        font-size: 1.2rem;
+        margin-top: 1rem;
+        margin-left: 1rem;
+        display: flex;
+        border: 2px solid rgb(215, 189, 21);
+        width: 3rem;
+        padding-left: 10px;
+    
+    }
+    .s2box>*:nth-child(8){
+        font-size: 1.2rem;
+        margin-top: -1.6rem;
+        margin-left: 6rem;
+        display: flex;
+        border: 2px solid rgb(215, 189, 21);
+        width: 2.6rem;
+        padding-left: 10px;
+    
+    }
+
+    .s2box>*:nth-child(9){
+        font-size: 1.2rem;
+        margin-top: -1.4rem;
+        margin-left: 16.5rem;
+        display: flex;
+        border: 2px solid rgb(215, 189, 21);
+        width: 5.4rem;
+        padding-left: 10px;
+    
+    }
+    .s2box>*:nth-child(10){
+        font-size: 1.2rem;
+        margin-top: -1.6rem;
+        margin-left: 10.5rem;
+        display: flex;
+        border: 2px solid rgb(215, 189, 21);
+        width: 4.2rem;
+        padding-left: 10px;
+    
+    }
+
+    .s2box>*:nth-child(11){
+        margin-top: 1.5rem;
+            font-size: 2rem;
+            font-weight: bold;
+            margin-left: 1rem;
+            display: flex;
+        }
+
+        .s2box>*:nth-child(12){
+            font-size: 1.2rem;
+            margin-top: 1rem;
+            margin-left: 1rem;
+            display: flex;
+            border: 2px solid rgb(215, 189, 21);
+            width: 3.8rem;
+            padding-left: 10px;
+        
+        }
+
+        .s2box>*:nth-child(13){
+            font-size: 1.2rem;
+            margin-top: -1.5rem;
+            margin-left: 6.5rem;
+            display: flex;
+            border: 2px solid rgb(215, 189, 21);
+            width: 14.5rem;
+            padding-left: 10px;
+        
+        }
