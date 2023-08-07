@@ -32,18 +32,29 @@ const Skills = () => {
         </div> */}
         <div className="s2box">
             <span>Skills</span>
-            <span>Programming</span>
-            <span>Data Structures</span>
-            <span>OOPS</span>
-            <span>C/C++</span>
-            <span>Web Development</span>
-            <span>Html</span>
-            <span>CSS</span>
-            <span>JavaScript</span>
-            <span>ReactJS</span>
-            <span>Machine Learning</span>
-            <span>Python</span>
-            <span>Natural Language Processing</span>
+            <span className='head'>Programming Language</span>
+            <ul>
+              <li>Python</li>
+              <li>C/C++</li>
+              
+            </ul>
+            <span className='head'>Subject Knowledge</span>
+            <ul>
+              <li>OOPS</li>
+              <li>DBMS</li>
+              <li>Data Structures and Algorithms</li>
+              <li>Operating System</li>
+            </ul>
+
+            <span className='head'>Domain Knowledge</span>
+            <ul>
+            <li>Machine Learning</li>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>React</li>
+              
+            </ul>
+       
         </div>
         </div>
     </div>

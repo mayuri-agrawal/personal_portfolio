@@ -36,13 +36,13 @@ margin-top: 1rem;
     line-height: 1.5rem;
     color: black;
 }
-.desc:hover{
+/* .desc:hover{
     background-color: rgba(23, 22, 22, 0.24);
     font-weight: bold;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     border-radius: 2px;
    
-}
+} */
 
 .sright{
     display: flex;
@@ -70,129 +70,15 @@ margin-top: 1rem;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
-.s2box>*:nth-child(1){
+ .s2box>*:nth-child(1){
     margin-left: 10rem;
     font-size: 3rem;
     font-weight: bold;
     display: flex;
 }
 
-.s2box>*:nth-child(2){
-margin-top: 1.5rem;
-    font-size: 2rem;
-    font-weight: bold;
-    margin-left: 1rem;
-    display: flex;
+.head{
+    font-size: 26px;
+    margin-left: 10px;
+    font-weight:550;
 }
-.s2box>*:nth-child(3){
-    margin-top: 1rem;
-    border: 2px solid rgb(215, 189, 21);
-    width: 8rem;
-    padding-left: 10px;
-    display: flex;
-    margin-left: 1rem;
-    font-size: 1.2rem;
-
-
-}
-.s2box>*:nth-child(4){
-    font-size: 1.2rem;
-    margin-top: -1.6rem;
-    margin-left: 11rem;
-    display: flex;
-    border: 2px solid rgb(215, 189, 21);
-    width: 3.6rem;
-    padding-left: 10px;
-
-}
-
-.s2box>*:nth-child(5){
-    font-size: 1.2rem;
-    margin-top: -1.6rem;
-    margin-left: 16.5rem;
-    display: flex;
-    border: 2px solid rgb(215, 189, 21);
-    width: 3.6rem;
-    padding-left: 10px;
-
-}
-
-.s2box>*:nth-child(6){
-    margin-top: 2rem;
-        font-size: 1.9rem;
-        font-weight: bold;
-        margin-left: 1rem;
-        display: flex;
-    }
-
-    .s2box>*:nth-child(7){
-        font-size: 1.2rem;
-        margin-top: 1rem;
-        margin-left: 1rem;
-        display: flex;
-        border: 2px solid rgb(215, 189, 21);
-        width: 3rem;
-        padding-left: 10px;
-    
-    }
-    .s2box>*:nth-child(8){
-        font-size: 1.2rem;
-        margin-top: -1.6rem;
-        margin-left: 6rem;
-        display: flex;
-        border: 2px solid rgb(215, 189, 21);
-        width: 2.6rem;
-        padding-left: 10px;
-    
-    }
-
-    .s2box>*:nth-child(9){
-        font-size: 1.2rem;
-        margin-top: -1.4rem;
-        margin-left: 16.5rem;
-        display: flex;
-        border: 2px solid rgb(215, 189, 21);
-        width: 5.4rem;
-        padding-left: 10px;
-    
-    }
-    .s2box>*:nth-child(10){
-        font-size: 1.2rem;
-        margin-top: -1.6rem;
-        margin-left: 10.5rem;
-        display: flex;
-        border: 2px solid rgb(215, 189, 21);
-        width: 4.2rem;
-        padding-left: 10px;
-    
-    }
-
-    .s2box>*:nth-child(11){
-        margin-top: 1.5rem;
-            font-size: 2rem;
-            font-weight: bold;
-            margin-left: 1rem;
-            display: flex;
-        }
-
-        .s2box>*:nth-child(12){
-            font-size: 1.2rem;
-            margin-top: 1rem;
-            margin-left: 1rem;
-            display: flex;
-            border: 2px solid rgb(215, 189, 21);
-            width: 3.8rem;
-            padding-left: 10px;
-        
-        }
-
-        .s2box>*:nth-child(13){
-            font-size: 1.2rem;
-            margin-top: -1.5rem;
-            margin-left: 6.5rem;
-            display: flex;
-            border: 2px solid rgb(215, 189, 21);
-            width: 14.5rem;
-            padding-left: 10px;
-        
-        }
